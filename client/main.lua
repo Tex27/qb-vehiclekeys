@@ -424,7 +424,7 @@ CreateThread(function()
                                 HasKey = true
                             end
                         else
-                            if not lockpicked and lockpickedPlate ~= plate then
+                            if not lockpicked or lockpickedPlate ~= plate then
                                 QBCore.Functions.TriggerCallback('vehiclekeys:CheckHasKey', function(result)
                                     if result == false then
                                         SetVehicleDoorsLocked(entering, 2)
