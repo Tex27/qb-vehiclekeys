@@ -4,5 +4,5 @@ all credits go to FjamZoo#0001, i just fixed it for hotwire, randomized the amou
 
 ## Dependencies
 
- + qb-lock https://github.com/NathanERP/qb-lock
+ + qb-lock https://github.com/Tex27/qb-lock
  + qb-core https://github.com/qbcore-framework/qb-core
