@@ -2,5 +2,7 @@
 qb-vehiclekeys compatible with qb-lock
 all credits go to FjamZoo#0001, i just fixed it for hotwire, randomized the amount of circles and the speed
 
-qb-lock
-https://github.com/NathanERP/qb-lock
+## Dependencies
+
+ + qb-lock https://github.com/NathanERP/qb-lock
+ + qb-core https://github.com/qbcore-framework/qb-core
