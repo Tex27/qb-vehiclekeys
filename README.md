@@ -1,6 +1,6 @@
 # qb-vehiclekeys
 qb-vehiclekeys compatible with qb-lock
-all credits go to FjamZoo#0001, i just fixed it for hotwire, randomized the amount of circles and the speed
+all credits go to FjamZoo#0001, i just fixed some errors like hotwire and when lockpicking all vehicles doors unlocking, randomized the amount of circles and the speed
 
 ## Dependencies
 
